@@ -3,6 +3,12 @@
 @media screen and (max-width: 420px) {
     body, #why.container {
         background-color: #F2F2CD;
+        margin: 0;
+    }
+    
+    #steps .row {
+        background-color: white;
+        width: 100vh;
     }
 
     #lezioni .row>.left,
