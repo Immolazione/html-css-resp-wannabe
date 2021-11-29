@@ -1,0 +1,11 @@
+/* < di 420px */
+
+@media screen and (max-width: 420px) {
+    body, #why.container {
+        background-color: #F2F2CD;
+    }
+    #lezioni .row>.left,
+    #lezioni .row>.right {
+    width: 100%;
+    }
+}
